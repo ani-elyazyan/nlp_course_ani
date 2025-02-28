@@ -1,2 +1,3 @@
 nlp_course_ani
-<img width="1133" alt="Снимок экрана 2025-02-28 в 16 28 23" src="https://github.com/user-attachments/assets/f05cfd0b-ea2b-4a45-9ca0-744996bb1fb8" />
+
+![photo_2025-02-28 16 36 19](https://github.com/user-attachments/assets/b13dc533-aa38-4c27-9975-854963b29c19)
